@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.content {
+    background: #3399CC;
+    border: 14px solid #2B81AC;
+    width: 799px;
+    height: 520px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 539px;
+    height: 327px;
+    background: #FFFFFF;
+}
+
+.smaller_block {
+    width: 131px;
+    height: 79px;
+}
+
+.larger_block {
+    width: 265px;
+    height: 79px;
+}
+
+.the-largest-block {
+    height: 79px;
+}
+
+.box_first {
+    display: flex;
+    /* height: 79px; */
+}
+
+.block-1 {
+    background: #3399CC;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-right: 1.5px solid #FFFFFF;
+}
+
+/* .block-1:after {
+    content: "";
+    width: 22px;
+    height: 23px;
+    background-image: url(../image/Vector.png);
+    background-size: 6.25%;
+    background-color: #FFFFFF;
+} */
+
+.block-2 {
+    background: #33CCCC;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-left: 1.5px solid #FFFFFF;
+    border-right: 1.5px solid #FFFFFF;
+}
+
+.block-3 {
+    background: #996699;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-left: 1.5px solid #FFFFFF;
+}
+
+.box_second {
+    display: flex;
+    /* height: 79px; */
+}
+
+.block-4 {
+    background: #C24747;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-right: 1.5px solid #FFFFFF;
+    border-top: 1.5px solid #FFFFFF;
+}
+
+.block-5 {
+    background: #E2674A;
+    border: 1.5px solid #FFFFFF;
+}
+
+.block-6 {
+    background: #FFCC66;
+    border: 1.5px solid #FFFFFF;
+}
+
+.block-7 {
+    background: #99CC99;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-left: 1.5px solid #FFFFFF;
+    border-top: 1.5px solid #FFFFFF;
+}
+
+.box_third {
+    display: flex;
+    /* height: 79px; */
+}
+
+.block-8 {
+    background: #669999;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-right: 1.5px solid #FFFFFF;
+    border-top: 1.5px solid #FFFFFF;
+}
+
+.block-9 {
+    background: #CC6699;
+    border: 1.5px solid #FFFFFF;
+}
+
+.block-10 {
+    background: #339966;
+    border: 3px solid #FFFFFF;
+    border-bottom: 1.5px solid #FFFFFF;
+    border-left: 1.5px solid #FFFFFF;
+    border-top: 1.5px solid #FFFFFF;
+}
+
+.box_four {
+    display: flex;
+    /* height: 79px; */
+}
+
+.block-11 {
+    background: #666699;
+    border: 3px solid #FFFFFF;
+    border-top: 1.5px solid #FFFFFF;
+    width: 533px;
+    
+}
+
+li {
+    margin-top: 16px;
+}
+
+.list-item {
+    margin-top: 4px;
+}
+
+img {
+    background: inherit;
+}
