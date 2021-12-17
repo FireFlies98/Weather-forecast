@@ -50,15 +50,6 @@ body {
     border-right: 1.5px solid #FFFFFF;
 }
 
-/* .block-1:after {
-    content: "";
-    width: 22px;
-    height: 23px;
-    background-image: url(../image/Vector.png);
-    background-size: 6.25%;
-    background-color: #FFFFFF;
-} */
-
 .block-2 {
     background: #33CCCC;
     border: 3px solid #FFFFFF;
@@ -146,10 +137,13 @@ body {
 
 li {
     margin-top: 16px;
+    /* display: inline-block; */
 }
 
 .list-item {
     margin-top: 4px;
+    float: inline-start;
+    margin-left: 25%;
 }
 
 img {
